@@ -35,13 +35,14 @@
 <p> <img src="https://img.shields.io/badge/Git-DCCBB0?style=for-the-badge&logo=git&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-DCCBB0?style=for-the-badge&logo=github&logoColor=black"/> <img src="https://img.shields.io/badge/JWT-DCCBB0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Swagger-DCCBB0?style=for-the-badge&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/SonarQube-DCCBB0?style=for-the-badge&logo=sonarqube&logoColor=black"/> <img src="https://img.shields.io/badge/Jira-DCCBB0?style=for-the-badge&logo=jira&logoColor=black"/> </p>
 🎨 Design Tools
 <p> <img src="https://img.shields.io/badge/Figma-E6D5B8?style=for-the-badge&logo=figma&logoColor=black"/>
- <img src="https://img.shields.io/badge/Adobe_Illustrator-E6D5B8?style=for-the-badge&logo=adobeillustrator&logoColor=black"/> 
+ <img src="https://img.shields.io/badge/Adobe_Illustrator-E6D5B8?style=for-the-badge&logo=adobeillustrator&logoColor=black"/> </p>
+ 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hajar12-hub&show_icons=true&theme=default"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=hajar12-hub&show_icons=true&theme=dark"/>
 </p>
 ---
 
