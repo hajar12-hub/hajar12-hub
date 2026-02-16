@@ -13,8 +13,18 @@
 ---
 
 ## 🛠️ Tech Stack
-👨‍💻 Languages
-<p> <img src="https://img.shields.io/badge/Java-E8DCC6?style=for-the-badge&logo=java&logoColor=black"/> <img src="https://img.shields.io/badge/Python-E8DCC6?style=for-the-badge&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/C-E8DCC6?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-E8DCC6?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-E8DCC6?style=for-the-badge&logo=typescript&logoColor=black"/> <img src="https://img.shields.io/badge/LaTeX-E8DCC6?style=for-the-badge&logo=latex&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E8DCC6?style=for-the-badge&logo=html5&logoColor=black"/> </p>
+### 👨‍💻 Languages
+<p>
+<img src="https://img.shields.io/badge/Java-E8DCC6?style=for-the-badge&logo=java&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-E8DCC6?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-E8DCC6?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-E8DCC6?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-E8DCC6?style=for-the-badge&logo=typescript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-E8DCC6?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/LaTeX-E8DCC6?style=for-the-badge&logo=latex&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E8DCC6?style=for-the-badge&logo=html5&logoColor=black"/>
+</p>
+
 ⚙️ Backend & Frameworks
 <p> <img src="https://img.shields.io/badge/Spring_Boot-DCCBB0?style=for-the-badge&logo=springboot&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-DCCBB0?style=for-the-badge&logo=node.js&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-DCCBB0?style=for-the-badge&logo=bootstrap&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind-DCCBB0?style=for-the-badge&logo=tailwindcss&logoColor=black"/> </p>
 🗄️ Databases
