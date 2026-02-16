@@ -21,12 +21,11 @@
 <p> <img src="https://img.shields.io/badge/MySQL-E6D5B8?style=for-the-badge&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-E6D5B8?style=for-the-badge&logo=mongodb&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-E6D5B8?style=for-the-badge&logo=postgresql&logoColor=black"/> </p>
 ☁️ Big Data & Cloud
 <p> <img src="https://img.shields.io/badge/Docker-D9C7A7?style=for-the-badge&logo=docker&logoColor=black"/> <img src="https://img.shields.io/badge/Apache_Kafka-D9C7A7?style=for-the-badge&logo=apachekafka&logoColor=black"/> <img src="https://img.shields.io/badge/Hadoop-D9C7A7?style=for-the-badge&logo=apachehadoop&logoColor=black"/> </p>
-🧪 Data Science
-<p> <img src="https://img.shields.io/badge/Numpy-E8DCC6?style=for-the-badge&logo=numpy&logoColor=black"/> <img src="https://img.shields.io/badge/Pandas-E8DCC6?style=for-the-badge&logo=pandas&logoColor=black"/> <img src="https://img.shields.io/badge/Scikit_Learn-E8DCC6?style=for-the-badge&logo=scikitlearn&logoColor=black"/> <img src="https://img.shields.io/badge/Matplotlib-E8DCC6?style=for-the-badge"/> </p>
 🛠️ Dev Tools
 <p> <img src="https://img.shields.io/badge/Git-DCCBB0?style=for-the-badge&logo=git&logoColor=black"/> <img src="https://img.shields.io/badge/GitHub-DCCBB0?style=for-the-badge&logo=github&logoColor=black"/> <img src="https://img.shields.io/badge/JWT-DCCBB0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Swagger-DCCBB0?style=for-the-badge&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/SonarQube-DCCBB0?style=for-the-badge&logo=sonarqube&logoColor=black"/> <img src="https://img.shields.io/badge/Jira-DCCBB0?style=for-the-badge&logo=jira&logoColor=black"/> </p>
 🎨 Design Tools
-<p> <img src="https://img.shields.io/badge/Adobe_Illustrator-E6D5B8?style=for-the-badge&logo=adobeillustrator&logoColor=black"/> <img src="https://img.shields.io/badge/After_Effects-E6D5B8?style=for-the-badge&logo=adobeaftereffects&logoColor=black"/> </p>
+<p> <img src="https://img.shields.io/badge/Figma-E6D5B8?style=for-the-badge&logo=figma&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Adobe_Illustrator-E6D5B8?style=for-the-badge&logo=adobeillustrator&logoColor=black"/> 
 ---
 
 ## 📊 GitHub Stats
