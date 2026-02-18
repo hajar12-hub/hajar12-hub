@@ -28,7 +28,7 @@
 ⚙️ Backend & Frameworks
 <p> <img src="https://img.shields.io/badge/Spring_Boot-DCCBB0?style=for-the-badge&logo=springboot&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-DCCBB0?style=for-the-badge&logo=node.js&logoColor=black"/> <img src="https://img.shields.io/badge/Bootstrap-DCCBB0?style=for-the-badge&logo=bootstrap&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind-DCCBB0?style=for-the-badge&logo=tailwindcss&logoColor=black"/> </p>
 🗄️ Databases
-<p> <img src="https://img.shields.io/badge/MySQL-E6D5B8?style=for-the-badge&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-E6D5B8?style=for-the-badge&logo=mongodb&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-E6D5B8?style=for-the-badge&logo=postgresql&logoColor=black"/> </p>
+<p> <img src="https://img.shields.io/badge/MySQL-E6D5B8?style=for-the-badge&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/MongoDB-E6D5B8?style=for-the-badge&logo=mongodb&logoColor=black"/> </p>
 ☁️ Big Data & Cloud
 <p> <img src="https://img.shields.io/badge/Docker-D9C7A7?style=for-the-badge&logo=docker&logoColor=black"/> <img src="https://img.shields.io/badge/Apache_Kafka-D9C7A7?style=for-the-badge&logo=apachekafka&logoColor=black"/> <img src="https://img.shields.io/badge/Hadoop-D9C7A7?style=for-the-badge&logo=apachehadoop&logoColor=black"/> </p>
 🛠️ Dev Tools
