@@ -7,7 +7,7 @@
 
 - 🎓 Software Engineering Student at ENSA Agadir  
 - 💡 Passionate about Backend & Scalable Systems  
-- 🚀 Currently building SaaS & Agile tools  
+- 🚀 Currently building a Caching Proxy Server with Spring Boot
 - 🎯 Looking for Internship Opportunities  
 
 ---
