@@ -7,7 +7,7 @@
 
 - 🎓 Software Engineering Student at ENSA Agadir  
 - 💡 Passionate about Backend & Scalable Systems  
-- 🚀 Currently building a Caching Proxy Server with Spring Boot
+- 🚀 Currently building a Async Task Engine, Moteur de Traitement Concurrent with spring boot
 - 🎯 Looking for Internship Opportunities  
 
 ---
