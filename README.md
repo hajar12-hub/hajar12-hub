@@ -1,19 +1,16 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hajar%20Azaou&fontSize=60&fontColor=e2c9a0&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Enthusiast&descAlignY=58&descColor=c9a87c&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=Hajar%20Azaou&fontSize=55&fontColor=c9a87c&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Enthusiast&descSize=18&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=C9A87C&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Spring+Boot+%7C+Kafka+%7C+Docker+%7C+Java;Open+to+Internship+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=C9A87C&center=true&vCenter=true&width=500&lines=Spring+Boot+%7C+Kafka+%7C+Docker+%7C+Java;Building+Scalable+Backend+Systems+%F0%9F%9A%80;Open+to+Internship+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f3460?style=for-the-badge&logo=linkedin&logoColor=c9a87c)](https://linkedin.com/in/hajar-azaou-46b53b27a)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=c9a87c)](https://github.com/hajar12-hub)
-[![ENSA Agadir](https://img.shields.io/badge/ENSA_Agadir-16213e?style=for-the-badge&logo=graduation-cap&logoColor=c9a87c)](https://www.ensa.uiz.ac.ma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9a87c&labelColor=0d1117)](https://linkedin.com/in/hajar-azaou-46b53b27a)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9a87c&labelColor=0d1117)](https://github.com/hajar12-hub)
+[![ENSA](https://img.shields.io/badge/ENSA_Agadir-0d1117?style=for-the-badge&logo=academia&logoColor=c9a87c&labelColor=0d1117)](https://www.ensa.uiz.ac.ma)
 
 </div>
 
@@ -28,7 +25,6 @@ public class Hajar extends SoftwareEngineer {
     String focus        = "Backend & Scalable Systems 💡";
     String currentWork  = "Async Task Engine — Concurrent Processing with Spring Boot 🚀";
     String goal         = "Internship Opportunities 🎯";
-    String[] languages  = { "French", "Arabic", "English" };
 
     public String getMotivation() {
         return "Build systems that scale, code that lasts.";
@@ -40,54 +36,48 @@ public class Hajar extends SoftwareEngineer {
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
-<img src="https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/LaTeX-1a1a2e?style=for-the-badge&logo=latex&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=c9a87c"/>
-</p>
+**👨‍💻 Languages**
 
-### ⚙️ Backend & Frameworks
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-16213e?style=for-the-badge&logo=springboot&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/Node.js-16213e?style=for-the-badge&logo=node.js&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/Bootstrap-16213e?style=for-the-badge&logo=bootstrap&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/Tailwind-16213e?style=for-the-badge&logo=tailwindcss&logoColor=c9a87c"/>
-</p>
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=c9a87c)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c9a87c)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=c9a87c)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=c9a87c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=c9a87c)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=c9a87c)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=c9a87c)
+![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=c9a87c)
 
-### 🗄️ Databases
-<p>
-<img src="https://img.shields.io/badge/MySQL-0f3460?style=for-the-badge&logo=mysql&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/MongoDB-0f3460?style=for-the-badge&logo=mongodb&logoColor=c9a87c"/>
-</p>
+**⚙️ Backend & Frameworks**
 
-### ☁️ Big Data & Cloud
-<p>
-<img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-1a1a2e?style=for-the-badge&logo=apachekafka&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/Hadoop-1a1a2e?style=for-the-badge&logo=apachehadoop&logoColor=c9a87c"/>
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=c9a87c)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=c9a87c)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=c9a87c)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=c9a87c)
 
-### 🔧 Dev Tools
-<p>
-<img src="https://img.shields.io/badge/Git-16213e?style=for-the-badge&logo=git&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/GitHub-16213e?style=for-the-badge&logo=github&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/JWT-16213e?style=for-the-badge&logo=jsonwebtokens&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/Swagger-16213e?style=for-the-badge&logo=swagger&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/SonarQube-16213e?style=for-the-badge&logo=sonarqube&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/Jira-16213e?style=for-the-badge&logo=jira&logoColor=c9a87c"/>
-</p>
+**🗄️ Databases**
 
-### 🎨 Design Tools
-<p>
-<img src="https://img.shields.io/badge/Figma-0f3460?style=for-the-badge&logo=figma&logoColor=c9a87c"/>
-<img src="https://img.shields.io/badge/Adobe_Illustrator-0f3460?style=for-the-badge&logo=adobeillustrator&logoColor=c9a87c"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=c9a87c)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=c9a87c)
+
+**☁️ Big Data & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=c9a87c)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=c9a87c)
+![Hadoop](https://img.shields.io/badge/Hadoop-0d1117?style=for-the-badge&logo=apachehadoop&logoColor=c9a87c)
+
+**🔧 Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=c9a87c)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9a87c)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=c9a87c)
+![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=c9a87c)
+![SonarQube](https://img.shields.io/badge/SonarQube-0d1117?style=for-the-badge&logo=sonarqube&logoColor=c9a87c)
+![Jira](https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=c9a87c)
+
+**🎨 Design**
+
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=c9a87c)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator&logoColor=c9a87c)
 
 ---
 
@@ -95,13 +85,16 @@ public class Hajar extends SoftwareEngineer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hajar12-hub&show_icons=true&theme=transparent&title_color=c9a87c&text_color=e2c9a0&icon_color=c9a87c&border_color=0f3460&bg_color=1a1a2e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajar12-hub&layout=compact&theme=transparent&title_color=c9a87c&text_color=e2c9a0&border_color=0f3460&bg_color=1a1a2e"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hajar12-hub&show_icons=true&theme=github_dark&title_color=c9a87c&icon_color=c9a87c&text_color=8b949e&border_color=30363d&bg_color=0d1117"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajar12-hub&layout=compact&theme=github_dark&title_color=c9a87c&text_color=8b949e&border_color=30363d&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hajar12-hub&theme=transparent&ring=c9a87c&fire=e2c9a0&currStreakLabel=c9a87c&sideLabels=c9a87c&border=0f3460&background=1a1a2e&dates=e2c9a0"/>
+
+![Streak](https://streak-stats.demolab.com?user=hajar12-hub&theme=github-dark-blue&ring=c9a87c&fire=c9a87c&currStreakLabel=c9a87c&sideLabels=8b949e&border=30363d&background=0d1117&dates=8b949e)
+
 </div>
 
 ---
@@ -110,14 +103,10 @@ public class Hajar extends SoftwareEngineer {
 
 <div align="center">
 
-| 💼 LinkedIn | 💻 GitHub |
-|:---:|:---:|
-| [hajar-azaou](https://linkedin.com/in/hajar-azaou-46b53b27a) | [hajar12-hub](https://github.com/hajar12-hub) |
+[![LinkedIn](https://img.shields.io/badge/hajar--azaou-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9a87c)](https://linkedin.com/in/hajar-azaou-46b53b27a)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/hajar12--hub-0d1117?style=for-the-badge&logo=github&logoColor=c9a87c)](https://github.com/hajar12-hub)
 
 </div>
 
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer"/>
