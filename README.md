@@ -134,28 +134,7 @@ Monitoring & Observability
 
 ---
 
-# 🚀 2026 Goals
 
-- Master Docker
-- Learn AWS Cloud Fundamentals
-- Build CI/CD Pipelines
-- Learn Terraform
-- Learn Kubernetes
-- Build Real DevOps Projects
-- Secure a DevOps Internship
-
----
-
-# 📂 Featured Projects
-
-- Dockerized Spring Boot Application
-- CI/CD Pipeline with GitHub Actions
-- AWS Deployment Project
-- Terraform Infrastructure Project
-- Kubernetes Lab
-- Linux Administration Labs
-
----
 
 # 🤝 Connect With Me
 
