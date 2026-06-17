@@ -1,22 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=220&section=header&text=Hajar%20Azaou&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=✦%20Aspiring%20DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20✦&descSize=16&descAlignY=60&descColor=dbeafe&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=220&section=header&text=Hajar%20Azaou&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 
-</div>
+<br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&lines=Linux+%7C+Docker+%7C+AWS+%7C+GitHub+Actions;DevOps+%7C+Cloud+%7C+Automation;Learning+Docker+and+Cloud+Fundamentals;Open+to+DevOps+Internship+Opportunities"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=✦+Linux+|+Docker+|+AWS+|+GitHub+Actions+✦;✦+DevOps+|+Cloud+|+Automation+✦;✦+Learning+Docker+%26+Cloud+Fundamentals+✦;✦+Open+to+DevOps+Internship+Opportunities+✦" alt="Typing SVG" />
+<br><br>
+
+<a href="https://linkedin.com/in/hajar-azaou-46b53b27a">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
 
-<br/><br/>
+<a href="https://github.com/hajar12-hub">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/in/hajar-azaou-46b53b27a)
-
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/hajar12-hub)
-
-[![ENSA](https://img.shields.io/badge/ENSA_Agadir-0F172A?style=for-the-badge&logo=academia&logoColor=60A5FA)](https://www.ensa.uiz.ac.ma)
+<a href="https://www.ensa.uiz.ac.ma">
+<img src="https://img.shields.io/badge/ENSA_Agadir-0F172A?style=for-the-badge&logo=academia&logoColor=60A5FA"/>
+</a>
 
 </div>
 
@@ -97,7 +99,7 @@ public class Hajar extends DevOpsEngineer {
 ## 🔒 Security
 
 ![OWASP](https://img.shields.io/badge/OWASP-0F172A?style=for-the-badge&logo=owasp&logoColor=60A5FA)
-![Network Security](https://img.shields.io/badge/Network_Security-0F172A?style=for-the-badge&logo=securityscorecard&logoColor=60A5FA)
+![Network Security](https://img.shields.io/badge/Network_Security-0F172A?style=for-the-badge)
 ![Cryptography](https://img.shields.io/badge/Cryptography-0F172A?style=for-the-badge&logo=letsencrypt&logoColor=60A5FA)
 
 ---
