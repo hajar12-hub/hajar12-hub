@@ -44,7 +44,6 @@ public class Hajar {
             "Spring Boot",
             "Docker",
             "Kubernetes",
-            "Terraform",
             "AWS"
     };
 
@@ -102,9 +101,7 @@ public class Hajar {
 ![Jenkins](https://img.shields.io/badge/Jenkins-0F172A?style=for-the-badge\&logo=jenkins\&logoColor=60A5FA)
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge\&logo=docker\&logoColor=60A5FA)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge\&logo=kubernetes\&logoColor=60A5FA)
-![Terraform](https://img.shields.io/badge/Terraform-0F172A?style=for-the-badge\&logo=terraform\&logoColor=60A5FA)
 ![AWS](https://img.shields.io/badge/AWS-0F172A?style=for-the-badge\&logo=amazonaws\&logoColor=60A5FA)
-![Azure](https://img.shields.io/badge/Azure-0F172A?style=for-the-badge\&logo=microsoftazure\&logoColor=60A5FA)
 
 ---
 
