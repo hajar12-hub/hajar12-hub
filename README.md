@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+Docker+%7C+Kubernetes;Backend+Development+%7C+DevOps+%7C+Cloud;Building+Scalable+Applications+and+CI%2FCD+Pipelines;Open+to+PFE+and+DevOps+Opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+Docker+%7C+Kubernetes;Backend+Development+%7C+DevOps+%7C+Cloud;Building+Scalable+Applications+and+CI%2FCD+Pipelines;Open+to+PFA+and+DevOps+Opportunities"/>
 
 <br><br>
 
