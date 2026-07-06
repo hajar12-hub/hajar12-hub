@@ -44,7 +44,7 @@ public class Hajar {
             "Spring Boot",
             "Docker",
             "Kubernetes",
-            "AWS"
+            "OCI"
     };
 
     String currentFocus = """
@@ -61,6 +61,20 @@ public class Hajar {
     }
 }
 ```
+
+---
+
+# 🏅 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer | Date | Validity |
+|:---:|---|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/CERTIFIED-Oracle-0F172A?style=for-the-badge&logo=oracle&logoColor=F80000"/> | **[Oracle Cloud Infrastructure Certified DevOps Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F9A7480CF9D446209C45427DBB16B3C4D)** | Oracle | Jul 2026 | Jul 2028 |
+| <img src="https://img.shields.io/badge/CERTIFIED-DataCamp-0F172A?style=for-the-badge&logo=datacamp&logoColor=03EF62"/> | **Introduction to Shell** | DataCamp | Mar 2025 | — |
+| <img src="https://img.shields.io/badge/CERTIFIED-DataCamp-0F172A?style=for-the-badge&logo=datacamp&logoColor=03EF62"/> | **Introduction to GitHub Concepts** | DataCamp | 2025 | — |
+
+</div>
 
 ---
 
@@ -101,7 +115,8 @@ public class Hajar {
 ![Jenkins](https://img.shields.io/badge/Jenkins-0F172A?style=for-the-badge\&logo=jenkins\&logoColor=60A5FA)
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge\&logo=docker\&logoColor=60A5FA)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge\&logo=kubernetes\&logoColor=60A5FA)
-![AWS](https://img.shields.io/badge/AWS-0F172A?style=for-the-badge\&logo=amazonaws\&logoColor=60A5FA)
+![Helm](https://img.shields.io/badge/Helm-0F172A?style=for-the-badge\&logo=helm\&logoColor=60A5FA)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-0F172A?style=for-the-badge\&logo=oracle\&logoColor=F80000)
 
 ---
 
@@ -109,8 +124,8 @@ public class Hajar {
 
 ![Spring Security](https://img.shields.io/badge/Spring_Security-0F172A?style=for-the-badge\&logo=springsecurity\&logoColor=60A5FA)
 ![OWASP](https://img.shields.io/badge/OWASP-0F172A?style=for-the-badge\&logo=owasp\&logoColor=60A5FA)
-![Network Security](https://img.shields.io/badge/Network_Security-0F172A?style=for-the-badge)
-![Cryptography](https://img.shields.io/badge/Cryptography-0F172A?style=for-the-badge\&logo=letsencrypt\&logoColor=60A5FA)
+![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge\&logo=jsonwebtokens\&logoColor=60A5FA)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-0F172A?style=for-the-badge)
 
 ---
 
@@ -124,9 +139,32 @@ public class Hajar {
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
-## NexaBoard – SaaS Project Management Platform
+## 🔐 microservices-platform — Secure Event-Driven Platform
+[![Repo](https://img.shields.io/badge/GitHub-microservices--platform-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/hajar12-hub/microservices-platform)
+
+* 4 Spring Boot microservices (Auth, Product, Order, Notification)
+* Apache Kafka for async inter-service communication
+* Centralized JWT/OAuth2 + RBAC via Spring Security
+* API Gateway with JWT filter + rate limiting
+* Zero Trust: OWASP + SonarQube in CI/CD, Kubernetes Secrets
+* Deployed on Kubernetes via Helm charts with HPA autoscaling
+
+---
+
+## ⚙️ spring-boot-cicd — DevOps Showcase
+[![Repo](https://img.shields.io/badge/GitHub-spring--boot--cicd-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/hajar12-hub/spring-boot-cicd)
+
+* End-to-end Jenkins pipeline: build → test → SonarQube → Docker push → Helm deploy
+* Multi-stage Dockerfile (Maven build + minimal JRE runtime)
+* Production-grade Helm chart: Deployment, Service, ConfigMap, Secret, HPA
+* Deployed on Kubernetes (Minikube) with GHCR as container registry
+
+---
+
+## 📋 NexaBoard — SaaS Project Management Platform
+[![Repo](https://img.shields.io/badge/GitHub-NexaBoard-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/hajar12-hub/NexaBoard)
 
 * Spring Boot + React.js + MongoDB
 * JWT Authentication & RBAC
@@ -140,21 +178,21 @@ public class Hajar {
 # 🎯 Current Learning Roadmap
 
 ```text
-Java & Spring Boot
+Java & Spring Boot  ✅
         ↓
-Microservices
+Microservices       ✅
         ↓
-Docker
+Docker              ✅
         ↓
-CI/CD
+CI/CD               ✅
         ↓
-AWS & Cloud Services
+Kubernetes          ✅
         ↓
-Terraform (IaC)
+OCI (Certified)     ✅
         ↓
-Kubernetes
+Kafka               🔄 In Progress
         ↓
-Monitoring & Observability
+Monitoring & Observability  📅 Next
 ```
 
 ---
