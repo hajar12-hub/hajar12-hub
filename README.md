@@ -94,7 +94,6 @@ public class Hajar {
 ## 🔹 Frontend
 
 ![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge\&logo=react\&logoColor=60A5FA)
-![Angular](https://img.shields.io/badge/Angular-0F172A?style=for-the-badge\&logo=angular\&logoColor=60A5FA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge\&logo=javascript\&logoColor=60A5FA)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge\&logo=tailwindcss\&logoColor=60A5FA)
 
