@@ -130,8 +130,6 @@ public class Hajar {
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge\&logo=fastapi\&logoColor=60A5FA)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge\&logo=githubactions\&logoColor=60A5FA)
-![Infrastructure as Code](https://img.shields.io/badge/Infrastructure_as_Code-0F172A?style=for-the-badge\&logo=terraform\&logoColor=60A5FA)
-![RBAC](https://img.shields.io/badge/RBAC-0F172A?style=for-the-badge\&logo=auth0\&logoColor=60A5FA)
 ![Agile](https://img.shields.io/badge/Agile-0F172A?style=for-the-badge)
 
 ---
