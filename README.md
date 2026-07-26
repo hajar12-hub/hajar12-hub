@@ -122,9 +122,7 @@ public class Hajar {
 ## 🔒 Security
 
 ![Spring Security](https://img.shields.io/badge/Spring_Security-0F172A?style=for-the-badge\&logo=springsecurity\&logoColor=60A5FA)
-![OWASP](https://img.shields.io/badge/OWASP-0F172A?style=for-the-badge\&logo=owasp\&logoColor=60A5FA)
 ![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge\&logo=jsonwebtokens\&logoColor=60A5FA)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-0F172A?style=for-the-badge)
 
 ---
 
@@ -140,18 +138,6 @@ public class Hajar {
 
 # 🚀 Featured Projects
 
-## 🔐 microservices-platform — Secure Event-Driven Platform
-[![Repo](https://img.shields.io/badge/GitHub-microservices--platform-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/hajar12-hub/microservices-platform)
-
-* 4 Spring Boot microservices (Auth, Product, Order, Notification)
-* Apache Kafka for async inter-service communication
-* Centralized JWT/OAuth2 + RBAC via Spring Security
-* API Gateway with JWT filter + rate limiting
-* Zero Trust: OWASP + SonarQube in CI/CD, Kubernetes Secrets
-* Deployed on Kubernetes via Helm charts with HPA autoscaling
-
----
-
 ## ⚙️ spring-boot-cicd — DevOps Showcase
 [![Repo](https://img.shields.io/badge/GitHub-spring--boot--cicd-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/hajar12-hub/spring-boot-cicd)
 
@@ -162,7 +148,7 @@ public class Hajar {
 
 ---
 
-## 📋 NexaBoard — SaaS Project Management Platform
+## 📋 NexaBoard — Management Platform
 [![Repo](https://img.shields.io/badge/GitHub-NexaBoard-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/hajar12-hub/NexaBoard)
 
 * Spring Boot + React.js + MongoDB
@@ -185,13 +171,13 @@ Docker              ✅
         ↓
 CI/CD               ✅
         ↓
-Kubernetes          ✅
+Kubernetes          🔄  In Progress
         ↓
-OCI (Certified)     ✅
+OCI                 
         ↓
-Kafka               🔄 In Progress
+Kafka                
         ↓
-Monitoring & Observability  📅 Next
+Monitoring & Observability  
 ```
 
 ---
