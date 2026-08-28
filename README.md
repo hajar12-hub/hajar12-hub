@@ -37,35 +37,33 @@ Software Engineering student at ENSA Agadir, interested in Java Backend Developm
 ### Software Engineering Intern — ENOSIS Group
 2026
 
-Worked on the design and development of a Market Intelligence module integrated into an enterprise platform.
-
+- Development of a Market Intelligence module
 - Backend and REST API development
-- Frontend integration
+- React frontend integration
 - PostgreSQL
-- Docker and microservices
-- Authentication and role-based access control
-- Market data collection and analytics
+- Docker and Microservices
+- Authentication and RBAC
+- Data collection and analytics
 
 ### Software Engineering Intern — SEOCOM
 2025
 
-Worked on NexaBoard, a management and collaboration platform.
-
-- Java and Spring Boot
+- Development of NexaBoard management platform
+- Java & Spring Boot
 - React
 - MongoDB
 - REST APIs
-- JWT Authentication and RBAC
+- JWT Authentication & RBAC
 - Docker
-- CI/CD with GitHub Actions
+- GitHub Actions CI/CD
 
 ## Certifications
 
-- [Oracle Cloud Infrastructure Certified DevOps Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F9A7480CF9D446209C45427DBB16B3C4D) — Oracle
-- [Introduction to Shell](YOUR_DATACAMP_CERTIFICATE_LINK) — DataCamp
-- [Introduction to GitHub Concepts](YOUR_DATACAMP_CERTIFICATE_LINK) — DataCamp
+- [Oracle Cloud Infrastructure Certified DevOps Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F9A7480CF9D446209C45427DBB16B3C4D) — Oracle, Jul 2026
+- Introduction to Shell — DataCamp, Mar 2025
+- Introduction to GitHub Concepts — DataCamp, 2025
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/hajar-azaou-46b53b27a
-- GitHub: https://github.com/hajar12-hub
+- [LinkedIn](https://linkedin.com/in/hajar-azaou-46b53b27a)
+- [GitHub](https://github.com/hajar12-hub)
