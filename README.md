@@ -1,217 +1,29 @@
-# Hi there 👋, I'm Hajar Azaou
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=220&section=header&text=Hajar%20Azaou&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+Docker+%7C+Kubernetes;Backend+Development+%7C+DevOps+%7C+Cloud;Building+Scalable+Applications+and+CI%2FCD+Pipelines;Open+to+PFA+and+DevOps+Opportunities"/>
-
-<br><br>
-
-<a href="https://linkedin.com/in/hajar-azaou-46b53b27a">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
-</a>
-
-<a href="https://github.com/hajar12-hub">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA"/>
-</a>
-
-<a href="https://www.ensa.uiz.ac.ma">
-<img src="https://img.shields.io/badge/ENSA_Agadir-0F172A?style=for-the-badge&logo=academia&logoColor=60A5FA"/>
-</a>
-
-</div>
-
----
-
-# 🚀 About Me
-
-```java
-public class Hajar {
-
-    String university = "ENSA Agadir";
-
-    String specialization = """
-            Software Engineering
-            Java Backend Development
-            DevOps & Cloud
-            """;
-
-    String[] technologies = {
-            "Java",
-            "Spring Boot",
-            "Docker",
-            "Kubernetes",
-            "OCI"
-    };
-
-    String currentFocus = """
-            Building scalable backend applications
-            Designing REST APIs
-            Automating CI/CD pipelines
-            Deploying cloud-native applications
-            """;
-
-    String goal = "DevOps / Cloud Engineer";
-
-    String motivation() {
-        return "Build secure, scalable and reliable software systems.";
-    }
-}
-```
-
----
-
-# 🏅 Certifications
-
-<div align="center">
-
-| Badge | Certification | Issuer | Date | Validity |
-|:---:|---|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/CERTIFIED-Oracle-0F172A?style=for-the-badge&logo=oracle&logoColor=F80000"/> | **[Oracle Cloud Infrastructure Certified DevOps Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F9A7480CF9D446209C45427DBB16B3C4D)** | Oracle | Jul 2026 | Jul 2028 |
-| <img src="https://img.shields.io/badge/CERTIFIED-DataCamp-0F172A?style=for-the-badge&logo=datacamp&logoColor=03EF62"/> | **Introduction to Shell** | DataCamp | Mar 2025 | — |
-| <img src="https://img.shields.io/badge/CERTIFIED-DataCamp-0F172A?style=for-the-badge&logo=datacamp&logoColor=03EF62"/> | **Introduction to GitHub Concepts** | DataCamp | 2025 | — |
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-## 🔹 Backend
-
-![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge\&logo=openjdk\&logoColor=60A5FA)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F172A?style=for-the-badge\&logo=springboot\&logoColor=60A5FA)
-![Spring Security](https://img.shields.io/badge/Spring_Security-0F172A?style=for-the-badge\&logo=springsecurity\&logoColor=60A5FA)
-![Microservices](https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge\&logo=node.js\&logoColor=60A5FA)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge\&logo=python\&logoColor=60A5FA)
-
----
-
-## 🔹 Frontend
-
-![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge\&logo=react\&logoColor=60A5FA)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge\&logo=javascript\&logoColor=60A5FA)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge\&logo=tailwindcss\&logoColor=60A5FA)
-
----
-
-## 🔹 Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge\&logo=mysql\&logoColor=60A5FA)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge\&logo=mongodb\&logoColor=60A5FA)
-
----
-
-## ☁️ DevOps & Cloud
-
-![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge\&logo=linux\&logoColor=60A5FA)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge\&logo=git\&logoColor=60A5FA)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge\&logo=githubactions\&logoColor=60A5FA)
-![Jenkins](https://img.shields.io/badge/Jenkins-0F172A?style=for-the-badge\&logo=jenkins\&logoColor=60A5FA)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge\&logo=docker\&logoColor=60A5FA)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge\&logo=kubernetes\&logoColor=60A5FA)
-![Helm](https://img.shields.io/badge/Helm-0F172A?style=for-the-badge\&logo=helm\&logoColor=60A5FA)
-![OCI](https://img.shields.io/badge/Oracle_Cloud-0F172A?style=for-the-badge\&logo=oracle\&logoColor=F80000)
-
----
-
-## 🔒 Security
-
-![Spring Security](https://img.shields.io/badge/Spring_Security-0F172A?style=for-the-badge\&logo=springsecurity\&logoColor=60A5FA)
-![JWT](https://img.shields.io/badge/JWT-0F172A?style=for-the-badge\&logo=jsonwebtokens\&logoColor=60A5FA)
-
----
-
-## 📚 Concepts
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge\&logo=fastapi\&logoColor=60A5FA)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge\&logo=githubactions\&logoColor=60A5FA)
-![Agile](https://img.shields.io/badge/Agile-0F172A?style=for-the-badge)
-
----
-
-# 🚀 Featured Projects
-
-## ⚙️ spring-boot-cicd — DevOps Showcase
-[![Repo](https://img.shields.io/badge/GitHub-spring--boot--cicd-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/hajar12-hub/spring-boot-cicd)
-
-* End-to-end Jenkins pipeline: build → test → SonarQube → Docker push → Helm deploy
-* Multi-stage Dockerfile (Maven build + minimal JRE runtime)
-* Production-grade Helm chart: Deployment, Service, ConfigMap, Secret, HPA
-* Deployed on Kubernetes (Minikube) with GHCR as container registry
-
----
-
-## 📋 NexaBoard — Management Platform
-[![Repo](https://img.shields.io/badge/GitHub-NexaBoard-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/hajar12-hub/NexaBoard)
-
-* Spring Boot + React.js + MongoDB
-* JWT Authentication & RBAC
-* RESTful API Design
-* Dockerized Architecture
-* GitHub Actions CI/CD
-* Team Collaboration & Task Management
-
----
-
-# 🎯 Current Learning Roadmap
-
-```text
-Java & Spring Boot  ✅
-        ↓
-Microservices       ✅
-        ↓
-Docker              ✅
-        ↓
-CI/CD               ✅
-        ↓
-Kubernetes          🔄  In Progress
-        ↓
-OCI                 
-        ↓
-Kafka                
-        ↓
-Monitoring & Observability  
-```
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hajar12-hub\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hajar12-hub\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/hajar-azaou-46b53b27a">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hajar12-hub">
-<img src="https://img.shields.io/badge/Follow_on_GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Build • Automate • Deploy • Monitor ⚡
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1E3A8A,100:0F172A&height=130&section=footer"/>
+# Hi, I'm Hajar Azaou
+
+Software Engineering Student | Java Backend Developer | DevOps & Cloud
+
+## Technologies
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+
+**Databases**
+- MySQL
+- PostgreSQL
+- MongoDB
+
+**DevOps & Cloud**
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+- Helm
+- Oracle Cloud Infrastructure (OCI)
+
+**Tools**
+- Git
+- GitHub
+- Linux
