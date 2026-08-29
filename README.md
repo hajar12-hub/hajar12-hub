@@ -1,11 +1,19 @@
-# Hi, I'm Hajar Azaou
+<h1 align="center">Hi, I'm Hajar Azaou 👋</h1>
 
-Software Engineering Student | Java Backend Developer | DevOps & Cloud
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Backend+Developer;DevOps+%26+Cloud+Enthusiast;Building+Backend+%26+Cloud-Native+Systems" />
+</p>
+<h1 align="center">Hi, I'm Hajar Azaou 👋</h1>
 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Java+Backend+Developer;DevOps+%26+Cloud+Enthusiast;Building+Scalable+Backend+Systems;Automating+Delivery+with+CI%2FCD+%26+Kubernetes" />
+</p>
 
-Software Engineering student at ENSA Agadir, interested in Java Backend Development, DevOps and Cloud technologies.
+## 👋 About Me
 
+I'm a Software Engineering student at **ENSA Agadir**, focused on **Java Backend Development, DevOps and Cloud**.
+
+I enjoy working on real-world systems involving **Spring Boot, APIs, Docker, Kubernetes, Jenkins, CI/CD and Cloud technologies**.
 ## Technologies
 
 **Backend**
