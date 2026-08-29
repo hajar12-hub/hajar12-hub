@@ -70,6 +70,43 @@ Developed **NexaBoard**, a full-stack management and collaboration platform with
 
 **Technologies:** Java, Spring Boot, Spring Security, React, MongoDB, Docker, GitHub Actions, REST APIs, JWT
 
+## DevOps Project
+
+### Jenkins Java Full CI/CD
+
+Built an end-to-end CI/CD pipeline for a Java application, covering build, code quality, containerization and Kubernetes deployment.
+
+**Key contributions:**
+- Automated Java application build and testing with Maven.
+- Created a Jenkins CI/CD pipeline using a `Jenkinsfile`.
+- Integrated SonarQube for static code analysis and quality gates.
+- Containerized the application and supporting services with Docker.
+- Configured MySQL connectivity inside the Docker/Jenkins environment.
+- Deployed the application to Kubernetes.
+- Managed Kubernetes releases and configurations using Helm.
+- Integrated Argo CD for GitOps-based continuous deployment.
+- Worked on pipeline troubleshooting, deployment configuration and quality validation.
+
+**Technologies:** Java, Maven, Jenkins, SonarQube, Docker, MySQL, Kubernetes, Helm, Argo CD, Git, CI/CD
+
+## Hackathon Project
+
+### SoukAI — Multi-Agent AI Procurement Platform
+**OpenAI Codex Hackathon Morocco — 2026**
+
+Built **SoukAI**, a multi-agent procurement platform that helps SMEs discover suppliers, negotiate multiple offers in parallel, share intelligence between negotiation agents and recommend the best deal.
+
+**Key contributions:**
+- Designed a **multi-agent architecture** with specialized agents for supplier discovery, negotiation, intelligence and decision-making.
+- Implemented **Cross-Negotiation Intelligence**, allowing agents to use verified offers from one negotiation as leverage in others.
+- Developed backend services and APIs to manage procurement missions, suppliers, offers, negotiation rounds and agent states.
+- Built a multi-criteria **Decision Engine** based on price, delivery, warranty, quality and business constraints.
+- Developed the procurement dashboard and live negotiation experience using **React**.
+- Implemented **Human-in-the-Loop** approval, keeping the final purchasing decision with the user.
+- Designed browser/computer-use capabilities for agents to discover and interact with suppliers through existing web channels.
+
+**Technologies:** React, Vite, REST APIs, Multi-Agent Systems, Agent Orchestration, Decision Engine, Human-in-the-Loop
+
 ## Certifications
 
 - [Oracle Cloud Infrastructure Certified DevOps Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F9A7480CF9D446209C45427DBB16B3C4D88040B3453DB9CA6618440894A98DD9) — Oracle, 2026
