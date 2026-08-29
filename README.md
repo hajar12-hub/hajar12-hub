@@ -25,11 +25,13 @@
     <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/OPEN%20TO-PFE%20INTERNSHIP%20FEB%202027-22C55E?style=for-the-badge&logo=briefcase&logoColor=white" />
-  </a>
+
 
 </p>
+
+<h3 align="center">
+ Open to PFE Internship Opportunities — Starting February 2027
+</h3>
 
 <br>
 
