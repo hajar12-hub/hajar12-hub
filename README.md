@@ -1,3 +1,24 @@
+<h1 align="center">Hi, I'm Hajar Azaou 👋</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Java+Backend+Developer;DevOps+%26+Cloud+Enthusiast;Building+Scalable+Backend+Systems;Automating+Delivery+with+CI%2FCD+%26+Kubernetes"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hajar-azaou-46b53b27a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/hajar12-hub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+<br>
+
 ## 👋 About Me
 
 <table>
@@ -12,7 +33,7 @@ I enjoy building **APIs, CI/CD pipelines and cloud-native applications**.
 
 </td>
 
-<td width="42%" align="center" valign="middle">
+<td width="42%" align="center">
 
 <img src="assets/girl-coding.gif" width="350" alt="Girl Coding">
 
