@@ -9,11 +9,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hajar-azaou-46b53b27a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 
   <a href="https://github.com/hajar12-hub">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
@@ -23,7 +23,8 @@
 
 <table>
 <tr>
-<td width="55%">
+
+<td width="55%" valign="top">
 
 I'm a **Software Engineering student at ENSA Agadir**, focused on **Java Backend Development, DevOps and Cloud**.
 
@@ -37,6 +38,17 @@ I enjoy building:
 - Cloud-native systems
 
 > *Code. Automate. Deploy. Repeat.*
+
+</td>
+
+<td width="45%" align="center" valign="top">
+
+<img src="./assets/girl-coding.png" width="400" alt="Girl Coding" />
+
+</td>
+
+</tr>
+</table>
 
 🎓 **ENSA Agadir**
 
