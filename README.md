@@ -110,6 +110,7 @@ Built **SoukAI**, a multi-agent procurement platform that helps SMEs discover su
 ## Certifications
 
 - [Oracle Cloud Infrastructure Certified DevOps Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F9A7480CF9D446209C45427DBB16B3C4D88040B3453DB9CA6618440894A98DD9) — Oracle, 2026
+- Oracle Morocco R&D Summer Bootcamp Participant — Oracle, 2026
 - [Introduction to Shell](https://www.datacamp.com/completed/statement-of-accomplishment/course/8e0d6784b9d822f5eb5a56c095b93ad66736b9b0) — DataCamp
 - [Introduction to GitHub Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/31a4410e3bcab0c968ebe00033c0820c79c3bd20?share=true) — DataCamp
 
