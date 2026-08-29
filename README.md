@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Java+Backend+Developer;DevOps+%26+Cloud+Enthusiast;Building+Scalable+Backend+Systems;Automating+Delivery+with+CI%2FCD+%26+Kubernetes"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4248F0&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Java+Backend+Developer;DevOps+%26+Cloud+Enthusiast;Automating+Delivery+with+CI%2FCD"
     alt="Typing SVG"
   />
 </p>
@@ -28,11 +28,11 @@
 
 
 </p>
-
 <h3 align="center">
- Open to PFE Internship Opportunities — Starting February 2027
+  <span style="color:#4248F0;">
+     Open to PFE Internship Opportunities — Starting February 2027
+  </span>
 </h3>
-
 <br>
 
 ## 👋 About Me
