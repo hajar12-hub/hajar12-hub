@@ -8,13 +8,23 @@
 </p>
 
 <p align="center">
+
   <a href="https://linkedin.com/in/hajar-azaou-46b53b27a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/R7oMraU6G4/">
+    <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="mailto:azaouhajar@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/hajar12-hub">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
 </p>
 
 <br>
