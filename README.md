@@ -1,7 +1,58 @@
 <h1 align="center">Hi, I'm Hajar Azaou 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Backend+Developer;DevOps+%26+Cloud+Enthusiast;Building+Backend+%26+Cloud-Native+Systems" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Java+Backend+Developer;DevOps+%26+Cloud+Enthusiast;Building+Scalable+Backend+Systems;Automating+Delivery+with+CI%2FCD+%26+Kubernetes"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hajar-azaou-46b53b27a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/hajar12-hub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<br>
+
+## 👋 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+I'm a **Software Engineering student at ENSA Agadir**, focused on **Java Backend Development, DevOps and Cloud**.
+
+I enjoy building:
+
+- Backend systems and REST APIs
+- Java applications with Spring Boot
+- CI/CD pipelines
+- Dockerized applications
+- Kubernetes deployments
+- Cloud-native systems
+
+> *Code. Automate. Deploy. Repeat.*
+
+🎓 **ENSA Agadir**
+
+📍 **Morocco**
+
+🎯 **Interested in Backend, DevOps & Cloud opportunities**
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="./assets/girl-coding.gif" width="430" alt="Girl Coding"/>
+
+</td>
+</tr>
+</table>readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+Backend+Developer;DevOps+%26+Cloud+Enthusiast;Building+Backend+%26+Cloud-Native+Systems" />
 
 
 ## 👋 About Me
