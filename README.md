@@ -43,7 +43,7 @@
 
 Software Engineering student at **ENSA Agadir**, focused on **Java Backend, DevOps and Cloud**.
 
-I enjoy building **APIs, CI/CD pipelines and cloud-native applications**.
+I enjoy building **APIs and CI/CD pipelines **.
 
 🎯 Backend • DevOps • Cloud
 
