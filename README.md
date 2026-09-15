@@ -125,7 +125,7 @@ Containerized the application and automated CI/CD using GitHub Actions.
 </tr>
 </table>
 
-<h2>⚙️ DevOps Projects</h2>
+<h2>Selected DevOps Projects</h2>
 
 <table>
 <tr>
