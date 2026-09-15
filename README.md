@@ -83,7 +83,7 @@ I enjoy building **APIs and CI/CD pipelines**.
 - GitHub
 - Linux
 
-<h2>💼 Experience</h2>
+<h2> Experience</h2>
 
 <table>
 <tr>
@@ -101,7 +101,7 @@ Integrated the module into a Dockerized microservices architecture.
 
 <p><b>Tech:</b> React, Django, DRF, PostgreSQL, Docker, JWT, RBAC</p>
 
-<a href="YOUR_ENOSIS_REPO">View Project →</a>
+
 
 </td>
 
@@ -119,7 +119,7 @@ Containerized the application and automated CI/CD using GitHub Actions.
 
 <p><b>Tech:</b> Java, Spring Boot, React, MongoDB, Docker, GitHub Actions</p>
 
-<a href="YOUR_NEXABOARD_REPO">View NexaBoard →</a>
+<a href="https://github.com/hajar12-hub/NexaBoard.git"> View Project </a>
 
 </td>
 </tr>
@@ -131,13 +131,13 @@ Containerized the application and automated CI/CD using GitHub Actions.
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎬 Netflix Clone — DevSecOps CI/CD</h3>
+<h3> Netflix Clone — DevSecOps CI/CD</h3>
 
 <p>
 Built an end-to-end <b>DevSecOps CI/CD pipeline</b> for a Netflix Clone application.<br>
-Automated code analysis and security scanning using <b>SonarQube, OWASP and Trivy</b>.<br>
-Containerized with Docker and automated deployment to a <b>Kubernetes cluster on AWS</b>.<br>
-Implemented infrastructure monitoring using <b>Prometheus, Node Exporter and Grafana</b>.
+Integrated <b>SonarQube, OWASP and Trivy</b> for code and vulnerability analysis.<br>
+Automated Docker builds and deployment to a <b>Kubernetes cluster on AWS</b>.<br>
+Implemented infrastructure monitoring with <b>Prometheus and Grafana</b>.
 </p>
 
 <p><b>Tech:</b> Jenkins, Docker, Kubernetes, AWS, SonarQube, Trivy, OWASP, Prometheus, Grafana</p>
@@ -148,18 +148,18 @@ Implemented infrastructure monitoring using <b>Prometheus, Node Exporter and Gra
 
 <td width="50%" valign="top">
 
-<h3>☁️ DevOps Project #2</h3>
+<h3> Spring Boot — CI/CD Pipeline</h3>
 
 <p>
-Built and automated a cloud-based infrastructure using modern DevOps practices.<br>
-Implemented automated infrastructure provisioning and application deployment.<br>
-Integrated CI/CD workflows with containerized services and cloud infrastructure.<br>
-Added monitoring and automation to improve reliability and deployment efficiency.
+Built a production-style <b>CI/CD pipeline</b> for a Spring Boot REST API.<br>
+Implemented CI with <b>Jenkins and GitHub Actions</b> plus SonarQube quality gates.<br>
+Added <b>Trivy</b> vulnerability scanning and Docker image publishing to GHCR.<br>
+Automated Kubernetes deployment using <b>Helm</b> with rolling updates and health probes.
 </p>
 
-<p><b>Tech:</b> AWS, Terraform, Jenkins, Docker, Kubernetes, CI/CD</p>
+<p><b>Tech:</b> Java, Spring Boot, Jenkins, GitHub Actions, Docker, SonarQube, Trivy, GHCR, Kubernetes, Helm</p>
 
-<a href="YOUR_SECOND_DEVOPS_REPOSITORY">View Project →</a>
+<a href="https://github.com/hajar12-hub/spring-boot-cicd">View Project →</a>
 
 </td>
 </tr>
