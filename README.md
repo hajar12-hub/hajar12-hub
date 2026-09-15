@@ -116,7 +116,6 @@ I enjoy building **APIs and CI/CD pipelines**.
 - Oracle Cloud Infrastructure (OCI)
 - Prometheus
 - Grafana
-- Node Exporter
 
 </td>
 <td width="50%" valign="top">
