@@ -103,7 +103,7 @@ Designed and developed a **Market Intelligence module** integrated into ENOSIS G
 ### Software Engineering Intern — SEOCOM
 **2025**
 
-Developed **[NexaBoard]https://github.com/hajar12-hub/NexaBoard.git**, a full-stack management and collaboration platform with secure authentication and automated deployment workflows.
+Developed **[NexaBoard](https://github.com/hajar12-hub/NexaBoard.git)**, a full-stack management and collaboration platform with secure authentication and automated deployment workflows.
 
 **Key contributions:**
 - Developed REST APIs using **Java and Spring Boot** with a **React** frontend.
