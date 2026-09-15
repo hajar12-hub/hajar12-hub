@@ -57,13 +57,13 @@ I enjoy building **APIs and CI/CD pipelines**.
 </tr>
 </table>
 
-<h2>🛠️ Technologies</h2>
+<h2> Technologies</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>⚙️ Backend</h3>
+<h3> Backend</h3>
 
 - Java
 - Spring Boot
@@ -73,7 +73,7 @@ I enjoy building **APIs and CI/CD pipelines**.
 </td>
 <td width="50%" valign="top">
 
-<h3>🗄️ Databases</h3>
+<h3> Databases</h3>
 
 - MySQL
 - PostgreSQL
@@ -85,7 +85,7 @@ I enjoy building **APIs and CI/CD pipelines**.
 <tr>
 <td width="50%" valign="top">
 
-<h3>🚀 DevOps & CI/CD</h3>
+<h3> DevOps & CI/CD</h3>
 
 - Docker
 - Kubernetes
@@ -97,7 +97,7 @@ I enjoy building **APIs and CI/CD pipelines**.
 </td>
 <td width="50%" valign="top">
 
-<h3>🔐 DevSecOps & Security</h3>
+<h3> DevSecOps & Security</h3>
 
 - SonarQube
 - Trivy
@@ -110,7 +110,7 @@ I enjoy building **APIs and CI/CD pipelines**.
 <tr>
 <td width="50%" valign="top">
 
-<h3>☁️ Cloud & Monitoring</h3>
+<h3> Cloud & Monitoring</h3>
 
 - AWS
 - Oracle Cloud Infrastructure (OCI)
@@ -120,7 +120,7 @@ I enjoy building **APIs and CI/CD pipelines**.
 </td>
 <td width="50%" valign="top">
 
-<h3>🛠️ Tools</h3>
+<h3> Tools</h3>
 
 - Git
 - GitHub
