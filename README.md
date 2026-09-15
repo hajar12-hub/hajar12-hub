@@ -83,73 +83,88 @@ I enjoy building **APIs and CI/CD pipelines**.
 - GitHub
 - Linux
 
-## Experience
+<h2>💼 Experience</h2>
 
-### Software Engineering Intern — ENOSIS Group
-**2026**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Designed and developed a **Market Intelligence module** integrated into ENOSIS Group's enterprise platform, digitalizing the collection, management and analysis of market data.
+<h3>ENOSIS Group — Software Engineering Intern</h3>
+<b>2026</b>
 
-**Key contributions:**
-- Developed REST APIs and backend services using **Django REST Framework** with a responsive **React** frontend.
-- Built market data collection workflows for product prices and promotions.
-- Designed analytical dashboards with advanced filtering and monitoring features.
-- Implemented **JWT authentication and RBAC** for supervisors, managers, and administrators.
-- Worked with **PostgreSQL** in a Dockerized microservices architecture.
+<p>
+Developed a <b>Market Intelligence module</b> for collecting and analyzing market data.<br>
+Built REST APIs with <b>Django REST Framework</b> and responsive interfaces with <b>React</b>.<br>
+Implemented dashboards, advanced filtering, JWT authentication and <b>RBAC</b>.<br>
+Integrated the module into a Dockerized microservices architecture.
+</p>
 
-**Technologies:** React, Django, Django REST Framework, PostgreSQL, Docker, REST APIs, Microservices, JWT, RBAC
+<p><b>Tech:</b> React, Django, DRF, PostgreSQL, Docker, JWT, RBAC</p>
 
+<a href="YOUR_ENOSIS_REPO">View Project →</a>
 
-### Software Engineering Intern — SEOCOM
-**2025**
+</td>
 
-Developed **[NexaBoard](https://github.com/hajar12-hub/NexaBoard.git)**, a full-stack management and collaboration platform with secure authentication and automated deployment workflows.
+<td width="50%" valign="top">
 
-**Key contributions:**
-- Developed REST APIs using **Java and Spring Boot** with a **React** frontend.
-- Implemented secure **JWT authentication, Spring Security, and RBAC**.
-- Integrated **MongoDB** for application data management.
-- Containerized the application using **Docker**.
-- Built a **CI/CD pipeline with GitHub Actions** for automated build and deployment.
+<h3>SEOCOM — Software Engineering Intern</h3>
+<b>2025</b>
 
-**Technologies:** Java, Spring Boot, Spring Security, React, MongoDB, Docker, GitHub Actions, REST APIs, JWT, RBAC
+<p>
+Developed <b>NexaBoard</b>, a full-stack management and collaboration platform.<br>
+Built REST APIs with <b>Spring Boot</b> and the frontend with <b>React</b>.<br>
+Implemented secure authentication using JWT, Spring Security and <b>RBAC</b>.<br>
+Containerized the application and automated CI/CD using GitHub Actions.
+</p>
 
-## DevOps Project
+<p><b>Tech:</b> Java, Spring Boot, React, MongoDB, Docker, GitHub Actions</p>
 
-### Jenkins Java Full CI/CD
+<a href="YOUR_NEXABOARD_REPO">View NexaBoard →</a>
 
-Built an end-to-end CI/CD pipeline for a Java application, covering build, code quality, containerization and Kubernetes deployment.
+</td>
+</tr>
+</table>
 
-**Key contributions:**
-- Automated Java application build and testing with Maven.
-- Created a Jenkins CI/CD pipeline using a `Jenkinsfile`.
-- Integrated SonarQube for static code analysis and quality gates.
-- Containerized the application and supporting services with Docker.
-- Configured MySQL connectivity inside the Docker/Jenkins environment.
-- Deployed the application to Kubernetes.
-- Managed Kubernetes releases and configurations using Helm.
-- Integrated Argo CD for GitOps-based continuous deployment.
-- Worked on pipeline troubleshooting, deployment configuration and quality validation.
+<h2>⚙️ DevOps Projects</h2>
 
-**Technologies:** Java, Maven, Jenkins, SonarQube, Docker, MySQL, Kubernetes, Helm, Argo CD, Git, CI/CD
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Hackathon Project
+<h3>🎬 Netflix Clone — DevSecOps CI/CD</h3>
 
-### SoukAI — Multi-Agent AI Procurement Platform
-**OpenAI Codex Hackathon Morocco — 2026**
+<p>
+Built an end-to-end <b>DevSecOps CI/CD pipeline</b> for a Netflix Clone application.<br>
+Automated code analysis and security scanning using <b>SonarQube, OWASP and Trivy</b>.<br>
+Containerized with Docker and automated deployment to a <b>Kubernetes cluster on AWS</b>.<br>
+Implemented infrastructure monitoring using <b>Prometheus, Node Exporter and Grafana</b>.
+</p>
 
-Built **SoukAI**, a multi-agent procurement platform that helps SMEs discover suppliers, negotiate multiple offers in parallel, share intelligence between negotiation agents and recommend the best deal.
+<p><b>Tech:</b> Jenkins, Docker, Kubernetes, AWS, SonarQube, Trivy, OWASP, Prometheus, Grafana</p>
 
-**Key contributions:**
-- Designed a **multi-agent architecture** with specialized agents for supplier discovery, negotiation, intelligence and decision-making.
-- Implemented **Cross-Negotiation Intelligence**, allowing agents to use verified offers from one negotiation as leverage in others.
-- Developed backend services and APIs to manage procurement missions, suppliers, offers, negotiation rounds and agent states.
-- Built a multi-criteria **Decision Engine** based on price, delivery, warranty, quality and business constraints.
-- Developed the procurement dashboard and live negotiation experience using **React**.
-- Implemented **Human-in-the-Loop** approval, keeping the final purchasing decision with the user.
-- Designed browser/computer-use capabilities for agents to discover and interact with suppliers through existing web channels.
+<a href="https://github.com/hajar12-hub/Netflix-Clone-CI-CD-with-Monitoring-Email">View Project →</a>
 
-**Technologies:** React, Vite, REST APIs, Multi-Agent Systems, Agent Orchestration, Decision Engine, Human-in-the-Loop
+</td>
+
+<td width="50%" valign="top">
+
+<h3>☁️ DevOps Project #2</h3>
+
+<p>
+Built and automated a cloud-based infrastructure using modern DevOps practices.<br>
+Implemented automated infrastructure provisioning and application deployment.<br>
+Integrated CI/CD workflows with containerized services and cloud infrastructure.<br>
+Added monitoring and automation to improve reliability and deployment efficiency.
+</p>
+
+<p><b>Tech:</b> AWS, Terraform, Jenkins, Docker, Kubernetes, CI/CD</p>
+
+<a href="YOUR_SECOND_DEVOPS_REPOSITORY">View Project →</a>
+
+</td>
+</tr>
+</table>
+
 
 ## Certifications
 
