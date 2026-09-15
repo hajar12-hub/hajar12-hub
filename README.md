@@ -91,7 +91,6 @@ I enjoy building **APIs and CI/CD pipelines**.
 - Kubernetes
 - Jenkins
 - GitHub Actions
-- Helm
 - GitHub Container Registry (GHCR)
 
 </td>
