@@ -57,31 +57,80 @@ I enjoy building **APIs and CI/CD pipelines**.
 </tr>
 </table>
 
-## Technologies
+<h2>🛠️ Technologies</h2>
 
-**Backend**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚙️ Backend</h3>
+
 - Java
 - Spring Boot
 - Spring Security
 - REST APIs
 
-**Databases**
+</td>
+<td width="50%" valign="top">
+
+<h3>🗄️ Databases</h3>
+
 - MySQL
 - PostgreSQL
 - MongoDB
 
-**DevOps & Cloud**
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🚀 DevOps & CI/CD</h3>
+
 - Docker
 - Kubernetes
 - Jenkins
 - GitHub Actions
 - Helm
-- Oracle Cloud Infrastructure (OCI)
+- GitHub Container Registry (GHCR)
 
-**Tools**
+</td>
+<td width="50%" valign="top">
+
+<h3>🔐 DevSecOps & Security</h3>
+
+- SonarQube
+- Trivy
+- OWASP Dependency-Check
+- SonarQube Quality Gates
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>☁️ Cloud & Monitoring</h3>
+
+- AWS
+- Oracle Cloud Infrastructure (OCI)
+- Prometheus
+- Grafana
+- Node Exporter
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛠️ Tools</h3>
+
 - Git
 - GitHub
 - Linux
+- Maven
+
+</td>
+</tr>
+</table>
 
 <h2> Experience</h2>
 
