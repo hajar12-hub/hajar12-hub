@@ -91,16 +91,11 @@ I enjoy building **APIs and CI/CD pipelines**.
 Designed and developed a **Market Intelligence module** integrated into ENOSIS Group's enterprise platform, digitalizing the collection, management and analysis of market data.
 
 **Key contributions:**
-- Built a complete market data collection workflow for supervisors, from product selection to price and promotion reporting.
-- Developed backend services and REST APIs using **Django REST Framework**.
-- Built and integrated responsive interfaces using **React**.
-- Designed and managed market data with **PostgreSQL**.
-- Implemented automatic draft saving to prevent data loss during field collection.
-- Developed analytical dashboards for price evolution, promotions and collection monitoring.
-- Implemented advanced filtering by period, region, category, subcategory, segment and SKU.
-- Implemented **Role-Based Access Control (RBAC)** for supervisors, managers and administrators.
-- Developed administration features for product referential data, regions and supervisor assignments.
-- Worked within a **Dockerized microservices architecture**, integrating the module with existing authentication and user services.
+- Developed REST APIs and backend services using **Django REST Framework** with a responsive **React** frontend.
+- Built market data collection workflows for product prices and promotions.
+- Designed analytical dashboards with advanced filtering and monitoring features.
+- Implemented **JWT authentication and RBAC** for supervisors, managers, and administrators.
+- Worked with **PostgreSQL** in a Dockerized microservices architecture.
 
 **Technologies:** React, Django, Django REST Framework, PostgreSQL, Docker, REST APIs, Microservices, JWT, RBAC
 
@@ -108,18 +103,16 @@ Designed and developed a **Market Intelligence module** integrated into ENOSIS G
 ### Software Engineering Intern — SEOCOM
 **2025**
 
-Developed **NexaBoard**, a full-stack management and collaboration platform with secure authentication and automated deployment workflows.
+Developed **[NexaBoard]https://github.com/hajar12-hub/NexaBoard.git**, a full-stack management and collaboration platform with secure authentication and automated deployment workflows.
 
 **Key contributions:**
-- Developed REST APIs with **Java and Spring Boot**.
-- Built the frontend using **React**.
-- Implemented secure authentication using **JWT and Spring Security**.
-- Implemented **Role-Based Access Control (RBAC)**.
+- Developed REST APIs using **Java and Spring Boot** with a **React** frontend.
+- Implemented secure **JWT authentication, Spring Security, and RBAC**.
 - Integrated **MongoDB** for application data management.
 - Containerized the application using **Docker**.
-- Implemented a **CI/CD pipeline with GitHub Actions** to automate build and deployment workflows.
+- Built a **CI/CD pipeline with GitHub Actions** for automated build and deployment.
 
-**Technologies:** Java, Spring Boot, Spring Security, React, MongoDB, Docker, GitHub Actions, REST APIs, JWT
+**Technologies:** Java, Spring Boot, Spring Security, React, MongoDB, Docker, GitHub Actions, REST APIs, JWT, RBAC
 
 ## DevOps Project
 
