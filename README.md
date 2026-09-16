@@ -67,7 +67,6 @@ I enjoy building **APIs and CI/CD pipelines**.
 
 - Java
 - Spring Boot
-- Spring Security
 - REST APIs
 
 </td>
@@ -124,7 +123,6 @@ I enjoy building **APIs and CI/CD pipelines**.
 - Git
 - GitHub
 - Linux
-- Maven
 
 </td>
 </tr>
