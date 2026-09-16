@@ -158,11 +158,11 @@ Integrated the module into a Dockerized microservices architecture.
 <p>
 Developed <b>NexaBoard</b>, a full-stack management and collaboration platform.<br>
 Built REST APIs with <b>Spring Boot</b> and the frontend with <b>React</b>.<br>
-Implemented secure authentication using JWT, Spring Security and <b>RBAC</b>.<br>
-Containerized the application and automated CI/CD using GitHub Actions.
+Implemented secure authentication using JWT.<br>
+Containerized the application.
 </p>
 
-<p><b>Tech:</b> Java, Spring Boot, React, MongoDB, Docker, GitHub Actions</p>
+<p><b>Tech:</b> Java, Spring Boot, React, MongoDB, Docker</p>
 
 <a href="https://github.com/hajar12-hub/NexaBoard.git"> View Project </a>
 
